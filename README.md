@@ -1,8 +1,6 @@
 # eureka
 
-Si se requiere correr de manera local generar un archivo root .env.local que contenga la siguiente INFO:
-VUE_APP_API_URL=https://kabsa.yallababy.com/api/v1/
-VUE_APP_SECRET_KEY=1DIPIkKeq8
+https://mums-deals-page.netlify.app/
 
 ## Project setup
 ```
